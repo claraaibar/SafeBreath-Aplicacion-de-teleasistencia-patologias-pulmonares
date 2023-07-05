@@ -1,7 +1,7 @@
 # SafeBreath - Aplicación de teleasistencia para patologías pulmonares
 
-### **Descripción del proyecto:**
-  - Temática: 💻👨‍⚕️🫁 Teleasistencia, sensores biomédicos, diseño ágil de aplicaciones, gestión de BBDD, bioinstrumentación, programación.
+### **Descripción del proyecto: 💻👨‍⚕️🫁**
+  - Temática:  Teleasistencia, sensores biomédicos, diseño ágil de aplicaciones, gestión de BBDD, bioinstrumentación, programación.
   - Softwares empleados: Eclipse, SQLite y SceneBuilder.
 
 ### **Reconocimientos y premios:**
